@@ -1,5 +1,11 @@
-## Hi there 👋
+## Welcome to Noelveon's profile!
+***
 
+I'm Noelia, a.k.a Noelveon, an high school student who likes programming, more specifically videogames!
+I have some experience programming in C# with Unity and actually I'm learning Python.
+I'm looking to study a programming degree and work doing backend, and my goal is work for a videogames company.
+
+You can contact me with this email -> NoeliaZamudioRodriguez@hotmail.com
 <!--
 **Noelveon/Noelveon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
